@@ -1,0 +1,7 @@
+Lab Readiness Report
+Laboratory: File I/O
+Total workstations: 12
+Unavailable workstations: 5
+Minimum required: 8
+Available workstations: 7
+Workshop cannot open.
